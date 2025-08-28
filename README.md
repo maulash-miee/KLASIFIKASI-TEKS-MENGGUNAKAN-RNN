@@ -17,8 +17,7 @@ Cara Menjalankan Kode
 
 Clone repository ini atau buka notebook di Kaggle:
 
-git clone https://github.com/username/klasifikasi-teks-rnn.git
-cd klasifikasi-teks-rnn
+git clone https://github.com/maulash-miee/KLASIFIKASI-TEKS-MENGGUNAKAN-RNN.git
 
 
 Pastikan semua dependensi terinstal (bisa menggunakan Kaggle Notebook atau Google Colab).
